@@ -1,0 +1,101 @@
+"country_name","province_name","district_name","event_name","year","week","total_cases","total_deaths"
+Chad,Guera,Mangalme,malaria,2022,31,516,0
+Chad,Mandoul,Bekourou,yellow fever,2021,18,0,0
+Democratic Republic of the Congo,Haut-Katanga,Mitwaba,meningitis,2020,14,1,0
+Cote d'Ivoire,Nzi,Kouassi-Kouassikro,cholera,2022,25,0,0
+South Sudan,Jonglei,Canal Pigi,cholera,2021,9,0,0
+Gabon,Haut-Ogooue,Boumango,yellow fever,2019,3,0,0
+Ghana,Central,Abura-Asebu-Kwamankese,cholera,2021,50,0,0
+Liberia,Rivercess,Joe River,yellow fever,2019,51,0,0
+Democratic Republic of the Congo,Kongo-Central,Kizu,malaria,2021,15,275,0
+Cameroon,Centre,Ngoumou,meningitis,2022,29,0,0
+Mozambique,Nampula,Mecuburi,meningitis,2019,6,0,0
+Nigeria,Taraba,Jalingo,yellow fever,2020,47,0,0
+Kenya,Wajir,Tarbaj,yellow fever,2020,2,0,0
+Democratic Republic of the Congo,Tanganyika,Kongolo,malaria,2020,39,998,0
+Niger,Tillaberi,Bankilare,malaria,2019,36,1004,1
+Nigeria,Kwara,Ilorin West,yellow fever,2020,31,0,0
+Kenya,Muranga,Kangema,cholera,2020,45,0,0
+Madagascar,Diana,Nosy-Be,malaria,2021,13,3,0
+Democratic Republic of the Congo,Haut-Katanga,Kasenga,malaria,2021,23,491,0
+United Republic of Tanzania,Simiyu,Bariadi TC,yellow fever,2020,29,0,0
+Zambia,Luapula,Samfya,cholera,2021,28,0,0
+United Republic of Tanzania,Tabora,Tabora MC,malaria,2020,9,3951,0
+United Republic of Tanzania,Pwani,Kibaha DC,meningitis,2021,2,0,0
+Liberia,Bomi,Dowein,yellow fever,2019,8,0,0
+Chad,Mandoul,Koumra,cholera,2020,4,0,0
+Chad,Guera,Niergui,meningitis,2022,30,0,0
+Kenya,Trans Nzoia,Saboti,cholera,2019,49,0,0
+Uganda,Bunyoro,Buliisa,meningitis,2020,8,0,0
+Democratic Republic of the Congo,Haut-Lomami,Mulongo,malaria,2021,49,636,4
+Zambia,Copperbelt,Masaiti,meningitis,2021,50,0,0
+Uganda,Bunyoro,Kikuube,meningitis,2020,40,0,0
+Kenya,Mombasa,Kisauni,cholera,2020,31,0,0
+Cameroon,Littoral,Melong,malaria,2022,38,34,0
+Madagascar,Analamanga,Anjozorobe,yellow fever,2021,47,0,0
+Zimbabwe,Matabeleland South,Insiza,malaria,2019,23,14,0
+Ghana,Volta,Anloga,cholera,2020,14,0,0
+Cote d'Ivoire,Agneby-Tiassa,Sikensi,yellow fever,2020,32,0,0
+Kenya,Taita Taveta,Voi,yellow fever,2019,28,0,0
+Zambia,Muchinga,Chinsali,malaria,2020,9,2496,0
+Senegal,Thies,Popenguine,cholera,2019,43,0,0
+Benin,Atacora,Natitingou,yellow fever,2020,17,0,0
+Liberia,Gbarpolu,Belle,meningitis,2022,47,0,0
+Democratic Republic of the Congo,Tshuapa,Wema,malaria,2020,27,185,0
+Kenya,Kakamega,Likuyani,cholera,2020,25,0,0
+Kenya,Muranga,Gatanga,malaria,2019,32,0,0
+United Republic of Tanzania,Kusini unguja,Kusini DC,malaria,2021,31,8,0
+Uganda,Karamoja,Nakapiripirit,meningitis,2021,20,0,0
+Kenya,Vihiga,Vihiga,cholera,2022,31,0,0
+Rwanda,East,Rwamagana,yellow fever,2022,48,0,0
+Kenya,Makueni,Kibwezi West,cholera,2020,7,0,0
+Uganda,North Central,Luwero,meningitis,2020,14,0,0
+Cape Verde,Sotavento-Ilha Santiago,Praia,cholera,2022,1,0,0
+Malawi,South,Nsanje,cholera,2022,51,2,0
+Zambia,Southern,Pemba,malaria,2020,10,273,0
+Cote d'Ivoire,Gbeke,Bouake Sud,cholera,2021,7,0,0
+Botswana,South-East,South East,yellow fever,2019,13,0,0
+Togo,Kara,Dankpen,yellow fever,2020,22,0,0
+Chad,Mayo-Kebbi-Ouest,Lagon,cholera,2020,40,0,0
+Nigeria,Taraba,Donga,meningitis,2020,46,0,0
+Madagascar,Analanjirofo,Fenerive Est,meningitis,2021,21,0,0
+Cameroon,Sud Ouest,Nguti,malaria,2021,20,68,0
+Nigeria,Katsina,Kurfi,cholera,2020,3,0,0
+Zimbabwe,Manicaland,Chimanimani,meningitis,2020,11,0,0
+Kenya,Kwale,Kinango,yellow fever,2020,30,0,0
+Botswana,Central,Serowe,malaria,2019,21,0,0
+Guinea,Boke,Fria,yellow fever,2020,36,0,0
+Zambia,Northern,Mpulungu,yellow fever,2019,9,0,0
+Mozambique,Niassa,Chimbonila,malaria,2019,3,0,0
+United Republic of Tanzania,Rukwa,Kalambo DC,meningitis,2022,48,0,0
+Seychelles,Central,Bel Air,malaria,2020,23,0,0
+Niger,Tillaberi,Filingue,malaria,2022,41,2612,0
+United Republic of Tanzania,Lindi,Liwale DC,yellow fever,2021,38,0,0
+Cote d'Ivoire,Nzi,Bocanda,meningitis,2020,47,0,0
+Chad,Mandoul,Goundi,yellow fever,2021,17,0,0
+Nigeria,Bauchi,Shira,cholera,2022,35,0,0
+Ghana,Eastern,Atiwa West,cholera,2021,40,0,0
+South Sudan,Central Equatoria State,Juba,cholera,2019,2,0,0
+Mozambique,Niassa,Cuamba,meningitis,2021,10,0,0
+Mozambique,Tete,Doa,malaria,2019,26,513,0
+Uganda,Lango,Lira City,malaria,2022,35,0,0
+Nigeria,Rivers,Asari-Toru,cholera,2021,27,0,0
+Democratic Republic of the Congo,Nord-Kivu,Kayna,malaria,2020,23,875,0
+Seychelles,East,Les Mamelles,meningitis,2019,48,0,0
+Uganda,South Central,Kalangala,malaria,2021,39,119,0
+Nigeria,Osun,Atakunmosa West,cholera,2021,22,0,0
+Uganda,West Nile,Maracha,cholera,2021,52,0,0
+Zambia,Muchinga,Chinsali,cholera,2022,24,0,0
+Ghana,Ashanti,Offinso,meningitis,2020,6,0,0
+Mali,Koulikoro,Koulikoro,cholera,2022,47,0,0
+Mali,Bamako,Commune 2,meningitis,2019,11,0,0
+Chad,Logone Occidental,Benoye,meningitis,2019,29,0,0
+Burundi,Cankuzo,Murore,cholera,2022,5,0,0
+Niger,Agadez,Bilma,cholera,2022,21,0,0
+Gabon,Ogooue-Ivindo,Ovan,cholera,2019,10,0,0
+Senegal,Dakar,Rufisque,yellow fever,2022,48,0,0
+Nigeria,Enugu,Igbo-Eze-South,yellow fever,2021,42,0,0
+Nigeria,Taraba,Sardauna,cholera,2020,8,0,0
+Gabon,Woleu-Ntem,Minvoul,meningitis,2020,3,0,0
+South Sudan,Warrap,Tonj North,yellow fever,2022,27,0,0
+Uganda,Karamoja,Karenga,meningitis,2020,44,0,0
